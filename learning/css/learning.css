@@ -1,0 +1,51 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body{
+  font-family: Arial, Helvetica, "微軟正黑體", sans-serif, monospace;
+  width: 100%;
+  margin: 0 auto;
+  background-image: url(../img/bg_pattern.png);
+}
+
+.container{
+  width: 100%;
+  margin: 0 auto;
+}
+
+.header-content{
+  text-align: center;
+  background-image: url(../img/hrader_kv.png);
+  background-position: top;
+  background-size: cover;
+  height: 505px;
+}
+  .header-content-inner{
+    width: 80%;
+
+
+  }
+    .row{}
+      .col-lg-6, .l-left{
+        background-image: url(../img/img_header_phone.png);
+        background-repeat: no-repeat;
+        background-position: left;
+        background-size: 50%;
+        height:
+      }
+
+
+        }
+      .r-left{}
+        .r-content{}
+          .r-content .wording{}
+            .wording h1{}
+            .wording p.depiction{}
+          .r-content .bt{}
+            .bt a{}
+            .bt a:hover{}
+              .ios_bt{}
+              .android_bt{}
